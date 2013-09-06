@@ -1,0 +1,4 @@
+MailCore
+========
+
+MailCore repository
